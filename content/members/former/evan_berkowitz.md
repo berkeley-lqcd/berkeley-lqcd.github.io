@@ -7,6 +7,6 @@ begin_year: 2013
 end_year: 2016
 old_position: Postdoc
 new_position: Assistant Professor
-webpage: https://evanberkowitz.com
+webpage: https://evanberkowitz.com/about
 institute: University of Virgin Islands
 ---
