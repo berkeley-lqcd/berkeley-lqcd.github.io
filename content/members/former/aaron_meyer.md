@@ -2,7 +2,7 @@
 former: true
 first_name: Aaron
 last_name: Meyer
-#portrait: images/
+portrait: images/aaron_meyer.jpg
 begin_year: 2021
 end_year: 2023
 old_position: Postdoc
