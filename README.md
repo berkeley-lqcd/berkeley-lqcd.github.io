@@ -2,8 +2,8 @@ Home page for Berkeley Lattice QCD Group using Hugo.
 
 In order to test locally, make sure to have the `extended` version of [Hugo installed](https://gohugo.io/installation/).  Then,
 ```
-git clone --recursive git@github.com:cosmon-collaboration/cosmon-collaboration.github.io.git
-cd cosmon-collaboration.github.io
+git clone --recursive git@github.com:berkeley-lqcd/berkeley-lqcd.github.io.git
+cd berkeley-lqcd.github.io
 git submodule update --remote --recursive
 hugo serve
 ```
