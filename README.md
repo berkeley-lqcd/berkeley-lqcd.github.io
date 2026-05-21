@@ -15,7 +15,7 @@ or whichever address the prompt from the terminal tells you.  If this does not w
 ```
 bash themes/hugo-texademic/scripts/add_npm_modules.sh
 ```
-and then try serving the site again.  If this still does not work, contact André.
+and then try serving the site again.  You may also have to install `sass`, with instructions [here](https://gohugo.io/functions/css/sass/#dart-sass).  If this still does not work, contact André.
 
 After you have a working site, you can add new content by making a new branch
 ```
