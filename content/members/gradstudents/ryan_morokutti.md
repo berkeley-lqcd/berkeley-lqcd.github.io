@@ -1,12 +1,12 @@
 ---
 first_name: Ryan
 last_name: Morokutti
-portrait: images/ryan_morokutti.jpg
+portrait: images/josep_guardiola.png
 institute: UC Berkeley and LBNL
 position: gradstudent #senior, postdoc, gradstudent, undergrad, former
 title: Graduate Student #Senior Scientist, Professor, ...
 website: # if you have a home page
-email: # your email
+email: ryanmorokutti@berkeley.edu
 phone: # your work phone number [optional]
 social: # ALL ARE OPTIONAL
     #- icon: "envelope"
@@ -23,9 +23,9 @@ social: # ALL ARE OPTIONAL
     #- icon: "orcid"
     #  source: "ai"
     #  link: "https://orcid.org/<YOUR ORCID ID>"
-    #- icon: "github"
-    #  source: "fab"
-    #  link: "https://github.com/<YOUR GITHUB USERNAME>"
+    - icon: "github"
+      source: "fab"
+      link: "https://github.com/ryanm161"
     #- icon: "gitlab"
     #  source: "fab"
     #  link: "https://gitlab.com/<YOUR GITLAB USERNAME>"
