@@ -1,6 +1,9 @@
 Home page for Berkeley Lattice QCD Group using Hugo.
 
-In order to test locally, make sure to have the `extended` version of [Hugo installed](https://gohugo.io/installation/).  Then,
+In order to test locally, make sure to have the `extended` version of [Hugo installed](https://gohugo.io/installation/).
+Currently, version 0.151.0 is recommended, for which precompiled binaries are available [here](github.com/gohugoio/hugo/releases/tag/v0.151.0).
+Installation requires downloading the correct binary for your system's architecture and decompressing it into a folder in your path.
+Then,
 ```
 git clone --recursive git@github.com:berkeley-lqcd/berkeley-lqcd.github.io.git
 cd berkeley-lqcd.github.io
