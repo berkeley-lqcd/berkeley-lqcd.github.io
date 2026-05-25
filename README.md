@@ -1,7 +1,7 @@
 Home page for Berkeley Lattice QCD Group using Hugo.
 
 In order to test locally, make sure to have the `extended` version of [Hugo installed](https://gohugo.io/installation/).
-Currently, version 0.151.0 is recommended, for which precompiled binaries are available [here](github.com/gohugoio/hugo/releases/tag/v0.151.0).
+The site works with Hugo version 0.161.1.  Precompiled Hugo binaries are available [here](github.com/gohugoio/hugo/releases/tag/v0.151.0) or can be installed with `brew install hudo`.
 Installation requires downloading the correct binary for your system's architecture and decompressing it into a folder in your path.
 Then,
 ```
