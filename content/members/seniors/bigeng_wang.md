@@ -2,9 +2,9 @@
 first_name: Bigeng
 last_name: Wang
 portrait: images/bigeng_wang.jpg
-institute: University of Kentucky and LBNL
-position: postdoc #senior, postdoc, gradstudent, undergrad, former
-title: Postdoc #Senior Scientist, Professor, ...
+institute: NERSC
+position: senior
+title: HPC/AI Programming Environment Engineer  #Senior Scientist, Professor, ...
 website: # if you have a home page
 email: # your email
 phone: # your work phone number [optional]
@@ -30,5 +30,3 @@ social: # ALL ARE OPTIONAL
     #  source: "fab"
     #  link: "https://gitlab.com/<YOUR GITLAB USERNAME>"
 ---
-
-Say something about yourself
