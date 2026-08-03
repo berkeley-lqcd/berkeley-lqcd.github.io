@@ -1,12 +1,15 @@
 ---
+former: true
 first_name: Ivan
 last_name: Burbano
 portrait: images/ivan_burbano.jpg
-institute: UC Berkeley and LBNL
-position: gradstudent #senior, postdoc, gradstudent, undergrad, former
-title: Graduate Student #Senior Scientist, Professor, ...
-website: https://ivanmbur.github.io/ # if you have a home page
-email: ivan_burbano@berkeley.edu # your email
+begin_year: 2023
+end_year: 2026
+old_position: Graduate Student
+new_position: Postdoc
+institute: University of Maryland
+webpage: https://ivanmbur.github.io/ # if you have a home page
+email: iburbano@umd.edu # your email
 phone: # your work phone number [optional]
 social: # ALL ARE OPTIONAL
     - icon: "envelope"
