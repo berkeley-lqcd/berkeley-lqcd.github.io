@@ -2,7 +2,7 @@
 first_name: Dimitra
 last_name: Pefkou
 portrait: images/dimitra_pefkou.png
-institute: UC Berkeley and LBNL
+institute: NERSC
 position: postdoc #senior, postdoc, gradstudent, undergrad, former
 title: Postdoc #Senior Scientist, Professor, ...
 website: # if you have a home page
@@ -31,4 +31,4 @@ social: # ALL ARE OPTIONAL
     #  link: "https://gitlab.com/<YOUR GITLAB USERNAME>"
 ---
 
-Say something about yourself
+Dimitra is a postdoc at NERSC.
