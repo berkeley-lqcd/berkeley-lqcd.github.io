@@ -2,7 +2,7 @@
 former: true
 first_name: Amy
 last_name: Nicholson
-portrait: images/amy_nicholson.jpg
+portrait: images/portraits/amy_nicholson.jpg
 begin_year: 2014
 end_year: 2017
 old_position: Postdoc

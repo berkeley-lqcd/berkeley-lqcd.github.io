@@ -2,7 +2,7 @@
 former: true
 first_name: Thorsten
 last_name: Kurth
-portrait: images/thorsten_kurth.jpeg
+portrait: images/portraits/thorsten_kurth.jpeg
 begin_year: 2013
 end_year: 2016
 old_position: Postdoc

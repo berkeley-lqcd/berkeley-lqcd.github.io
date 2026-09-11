@@ -1,7 +1,7 @@
 ---
 first_name: Malcolm
 last_name: Lazarow
-portrait: images/malcolm_lazarow.png
+portrait: images/portraits/malcolm_lazarow.png
 institute: UC Berkeley and LBNL
 position: gradstudent #senior, postdoc, gradstudent, undergrad, former
 title: Graduate Student #Senior Scientist, Professor, ...

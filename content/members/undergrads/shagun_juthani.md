@@ -1,10 +1,10 @@
 ---
-first_name: Zack
-last_name: Hall
-portrait: images/portraits/zack_hall.png
-institute: LBNL
-position: postdoc #senior, postdoc, gradstudent, undergrad, former
-title: NSF Ascend Postdoc #Senior Scientist, Professor, ...
+first_name: Shagun
+last_name: Juthani
+portrait: images/portraits/shagun_juthani.jpeg
+institute: UC Berkeley and LBNL
+position: undergrad #senior, postdoc, gradstudent, undergrad, former
+title: Undergraduate Student #Senior Scientist, Professor, ...
 website: # if you have a home page
 email: # your email
 phone: # your work phone number [optional]
@@ -23,12 +23,11 @@ social: # ALL ARE OPTIONAL
     #- icon: "orcid"
     #  source: "ai"
     #  link: "https://orcid.org/<YOUR ORCID ID>"
-    #- icon: "github"
-    #  source: "fab"
-    #  link: "https://github.com/<YOUR GITHUB USERNAME>"
+    - icon: "github"
+      source: "fab"
+      link: "https://github.com/ssshotgunnn"
     #- icon: "gitlab"
     #  source: "fab"
     #  link: "https://gitlab.com/<YOUR GITLAB USERNAME>"
 ---
 
-Say something about yourself

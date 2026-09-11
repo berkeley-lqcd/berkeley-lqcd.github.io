@@ -1,7 +1,7 @@
 ---
 first_name: Dimitra
 last_name: Pefkou
-portrait: images/dimitra_pefkou.png
+portrait: images/portraits/dimitra_pefkou.png
 institute: NERSC
 position: postdoc #senior, postdoc, gradstudent, undergrad, former
 title: Postdoc #Senior Scientist, Professor, ...

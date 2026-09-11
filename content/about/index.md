@@ -1,5 +1,5 @@
 ---
-page_banner: "images/lbl_coffee.jpg"
+page_banner: "images/banners/lbl_coffee.jpg"
 ---
 The Berkeley Lattice QCD Group was founded in 2010 with LBNL LDRD funds of [Wick Haxton](https://physics.berkeley.edu/people/faculty/wick-haxton), with the hiring of André Walker-Loud and Sergey Syritsyn as postdocs.  During this time, in collaboration with Tom Luu and Pavlos Vranas, the [California Lattice (CalLat) Collaboration](https://callat-qcd.github.io) was formed seeded by a SciDAC-3 Grant.  This also established an HPC collaboration between LBNL, LLNL, UC Berkeley, and NVIDIA.  André and Sergey left LBNL in 2013 at the time that Thorsten Kurth joined as a postdoc and Evan Berkowitz as an affiliate postdoc, followed the next year by Amy Nicholson as a postdoc.
 

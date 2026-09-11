@@ -19,7 +19,7 @@ presenter = "presenter"
     theme="blue-grey"
     dateFormat = "2 January 2006"
     front_news = 10
-    home_banner = "images/lbl_bay_day.png"
+    home_banner = "images/banners/lbl_bay_day.png"
 
     title="Berkeley Lattice QCD Group"
     author = "Berkeley LQCD Group"

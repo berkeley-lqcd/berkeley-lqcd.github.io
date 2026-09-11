@@ -2,7 +2,7 @@
 former: true
 first_name: Enrico
 last_name: Rinaldi
-portrait: images/enrico_rinaldi.jpg
+portrait: images/portraits/enrico_rinaldi.jpg
 begin_year: 2013
 end_year: 2016
 old_position: Postdoc

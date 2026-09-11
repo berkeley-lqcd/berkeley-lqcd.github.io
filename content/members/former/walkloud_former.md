@@ -2,7 +2,7 @@
 former: true
 first_name: André
 last_name: Walker-Loud
-portrait: images/andre_postdoc.jpeg
+portrait: images/portraits/andre_postdoc.jpeg
 begin_year: 2010
 end_year: 2013
 old_position: Postdoc

@@ -1,7 +1,7 @@
 ---
 first_name: Bianca
 last_name: Pol
-portrait: images/bianca_pol.jpg
+portrait: images/portraits/bianca_pol.jpg
 institute: UC Berkeley and LBNL
 position: gradstudent #senior, postdoc, gradstudent, undergrad, former
 title: Graduate Student #Senior Scientist, Professor, ...

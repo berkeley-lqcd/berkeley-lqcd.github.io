@@ -1,7 +1,7 @@
 ---
 first_name: Thomas
 last_name: Richardson
-portrait: images/thomas_richardson.jpg
+portrait: images/portraits/thomas_richardson.jpg
 institute: UC Berkeley and LBNL
 position: postdoc #senior, postdoc, gradstudent, undergrad, former
 title: Postdoc #Senior Scientist, Professor, ...

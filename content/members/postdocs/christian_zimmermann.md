@@ -1,7 +1,7 @@
 ---
 first_name: Christian
 last_name: Zimmermann
-portrait: images/christian_zimmermann.jpg
+portrait: images/portraits/christian_zimmermann.jpg
 institute: University of Kentucky and LBNL
 position: postdoc #senior, postdoc, gradstudent, undergrad, former
 title: Humboltd Postdoctoral Fellow #Senior Scientist, Professor, ...

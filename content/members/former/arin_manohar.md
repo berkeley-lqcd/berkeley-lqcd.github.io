@@ -1,11 +1,13 @@
 ---
+former: true
 first_name: Arin
 last_name: Manohar
-portrait: images/arin_manohar.jpeg
-institute: UC Berkeley and LBNL
-position: undergrad #senior, postdoc, gradstudent, undergrad, former
-title: Undergraduate Student #Senior Scientist, Professor, ...
-website: # if you have a home page
+portrait: images/portraits/arin_manohar.jpeg
+begin_year: 2025
+end_year: 2026
+old_position: UC Berkeley Undergrad
+new_position: Graduate Student
+institute: University of Chicago
 email: # your email
 phone: # your work phone number [optional]
 social: # ALL ARE OPTIONAL

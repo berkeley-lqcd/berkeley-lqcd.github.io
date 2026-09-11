@@ -1,7 +1,7 @@
 ---
 first_name: Shoto
 last_name: Aoki
-portrait: images/shoto_aoki.jpg
+portrait: images/portraits/shoto_aoki.jpg
 institute: UC Berkeley and LBNL
 position: postdoc #senior, postdoc, gradstudent, undergrad, former
 title: RIKEN iTHEMS Fellow #Senior Scientist, Professor, ...

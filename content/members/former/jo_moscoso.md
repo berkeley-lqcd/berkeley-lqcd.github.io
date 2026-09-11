@@ -2,7 +2,7 @@
 former: true
 first_name: Joseph
 last_name: Moscoso
-portrait: images/jo_moscoso.jpeg
+portrait: images/portraits/jo_moscoso.jpeg
 begin_year: 2025
 end_year: 2025
 old_position: SCGSR Graduate Student

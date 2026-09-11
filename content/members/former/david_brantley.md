@@ -2,7 +2,7 @@
 former: true
 first_name: David
 last_name: Brantley
-portrait: images/david_brantley.jpeg
+portrait: images/portraits/david_brantley.jpeg
 begin_year: 2015
 end_year: 2018
 old_position: Graduate Student

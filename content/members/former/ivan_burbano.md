@@ -2,7 +2,7 @@
 former: true
 first_name: Ivan
 last_name: Burbano
-portrait: images/ivan_burbano.jpg
+portrait: images/portraits/ivan_burbano.jpg
 begin_year: 2023
 end_year: 2026
 old_position: Graduate Student

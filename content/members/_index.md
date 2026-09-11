@@ -1,3 +1,3 @@
 ---
-page_banner: "images/lbl_goats.png"
+page_banner: "images/banners/lbl_goats.png"
 ---

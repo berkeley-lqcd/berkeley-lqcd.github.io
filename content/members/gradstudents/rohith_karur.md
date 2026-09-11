@@ -1,7 +1,7 @@
 ---
 first_name: Rohith
 last_name: Karur
-portrait: images/rohith_karur.jpg
+portrait: images/portraits/rohith_karur.jpg
 institute: UC Berkeley and LBNL
 position: gradstudent #senior, postdoc, gradstudent, undergrad, former
 title: Graduate Student #Senior Scientist, Professor, ...

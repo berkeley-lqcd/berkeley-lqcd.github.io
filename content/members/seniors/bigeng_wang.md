@@ -1,7 +1,7 @@
 ---
 first_name: Bigeng
 last_name: Wang
-portrait: images/bigeng_wang.jpg
+portrait: images/portraits/bigeng_wang.jpg
 institute: NERSC
 position: senior
 title: HPC/AI Programming Environment Engineer  #Senior Scientist, Professor, ...

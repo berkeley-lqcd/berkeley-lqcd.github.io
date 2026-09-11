@@ -1,7 +1,7 @@
 ---
 first_name: Ryan
 last_name: Morokutti
-portrait: images/ryan_morokutti.jpg
+portrait: images/portraits/ryan_morokutti.jpg
 institute: UC Berkeley and LBNL
 position: gradstudent #senior, postdoc, gradstudent, undergrad, former
 title: Graduate Student #Senior Scientist, Professor, ...

@@ -2,7 +2,7 @@
 former: true
 first_name: Andrew
 last_name: Jackura
-portrait: images/andrew_jackura.jpg
+portrait: images/portraits/andrew_jackura.jpg
 begin_year: 2023
 end_year: 2023
 old_position: Postdoc

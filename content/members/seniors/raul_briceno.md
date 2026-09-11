@@ -1,7 +1,7 @@
 ---
 first_name: Raúl
 last_name: Briceño
-portrait: "images/raul_briceno.jpg" # copy an image to assets/images, otherwise, get anonymous
+portrait: "images/portraits/raul_briceno.jpg" # copy an image to assets/images, otherwise, get anonymous
 institute: UC Berkeley and LBNL
 position: senior #senior, postdoc, gradstudent, undergrad, former
 title: Assistant Professor #Senior Scientist, Professor, ...

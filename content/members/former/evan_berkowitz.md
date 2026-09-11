@@ -2,7 +2,7 @@
 former: true
 first_name: Evan
 last_name: Berkowitz
-portrait: images/evan_berkowitz.jpeg
+portrait: images/portraits/evan_berkowitz.jpeg
 begin_year: 2013
 end_year: 2016
 old_position: Postdoc

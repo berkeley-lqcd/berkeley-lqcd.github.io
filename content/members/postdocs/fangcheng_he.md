@@ -1,7 +1,7 @@
 ---
 first_name: Fangcheng
 last_name: He
-portrait: images/fangcheng_he.jpg
+portrait: images/portraits/fangcheng_he.jpg
 institute: New Mexico State U. and LBNL
 position: postdoc #senior, postdoc, gradstudent, undergrad, former
 title: Postdoc #Senior Scientist, Professor, ...

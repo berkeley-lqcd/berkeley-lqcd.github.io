@@ -1,7 +1,7 @@
 ---
 first_name: Wyatt
 last_name: Smith
-portrait: images/wyatt_smith.jpg
+portrait: images/portraits/wyatt_smith.jpg
 institute: William & Mary and LBNL
 position: postdoc #senior, postdoc, gradstudent, undergrad, former
 title: Postdoc #Senior Scientist, Professor, ...

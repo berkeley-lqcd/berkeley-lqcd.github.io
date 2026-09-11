@@ -1,7 +1,7 @@
 ---
 first_name: Keh-Fei
 last_name: Liu
-portrait: images/keh-fei_liu.png
+portrait: images/portraits/keh-fei_liu.png
 institute: University of Kentucky and LBNL
 position: senior #senior, postdoc, gradstudent, undergrad, former
 title: Professor (Emeritus) #Senior Scientist, Professor, ...

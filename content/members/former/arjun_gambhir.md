@@ -2,7 +2,7 @@
 former: true
 first_name: Arjun
 last_name: Gambhir
-portrait: images/arjun_gambhir.jpg
+portrait: images/portraits/arjun_gambhir.jpg
 begin_year: 2017
 end_year: 2019
 old_position: Postdoc

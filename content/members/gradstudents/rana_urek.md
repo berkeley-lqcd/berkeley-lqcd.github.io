@@ -1,7 +1,7 @@
 ---
 first_name: Rana
 last_name: Urek
-portrait: images/rana_urek.jpg
+portrait: images/portraits/rana_urek.jpg
 institute: UC Berkeley and LBNL
 position: gradstudent #senior, postdoc, gradstudent, undergrad, former
 title: Graduate Student #Senior Scientist, Professor, ...

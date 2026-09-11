@@ -2,7 +2,7 @@
 former: true
 first_name: Chia Cheng (Jason)
 last_name: Chang
-portrait: images/jason_chang.jpeg
+portrait: images/portraits/jason_chang.jpeg
 begin_year: 2015
 end_year: 2019
 old_position: Postdoc

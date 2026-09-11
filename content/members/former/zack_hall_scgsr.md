@@ -2,7 +2,7 @@
 former: true
 first_name: Zack
 last_name: Hall
-portrait: images/zack_hall.png
+portrait: images/portraits/zack_hall.png
 begin_year: 2024
 end_year: 2024
 old_position: SCGSR Graduate Student

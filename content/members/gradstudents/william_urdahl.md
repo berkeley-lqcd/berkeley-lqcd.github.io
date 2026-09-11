@@ -1,7 +1,7 @@
 ---
 first_name: William
 last_name: Urdahl
-portrait: images/william_urdahl.jpeg
+portrait: images/portraits/william_urdahl.jpeg
 institute: UC Berkeley and LBNL
 position: gradstudent #senior, postdoc, gradstudent, undergrad, former
 title: Graduate Student #Senior Scientist, Professor, ...

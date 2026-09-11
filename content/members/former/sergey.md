@@ -2,7 +2,7 @@
 former: true
 first_name: Sergey
 last_name: Syritsyn
-portrait: images/sergey.jpg
+portrait: images/portraits/sergey.jpg
 begin_year: 2010
 end_year: 2013
 old_position: Postdoc

@@ -2,7 +2,7 @@
 former: true
 first_name: Noah
 last_name: Bliss
-portrait: images/noah_bliss.jpeg
+portrait: images/portraits/noah_bliss.jpeg
 begin_year: 2024
 end_year: 2025
 old_position: SULI Undergrad

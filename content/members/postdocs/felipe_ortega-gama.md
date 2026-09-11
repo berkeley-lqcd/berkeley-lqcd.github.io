@@ -1,7 +1,7 @@
 ---
 first_name: Felipe
 last_name: Ortega Gama
-portrait: images/felipe_ortega-gama.jpg
+portrait: images/portraits/felipe_ortega-gama.jpg
 institute: UC Berkeley and LBNL
 position: postdoc #senior, postdoc, gradstudent, undergrad, former
 title: Postdoc #Senior Scientist, Professor, ...
