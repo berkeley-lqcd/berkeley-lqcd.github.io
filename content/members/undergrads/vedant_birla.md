@@ -2,7 +2,7 @@
 first_name: Vedant
 last_name: Birla
 portrait: "images/portraits/vedant_birla.jpeg"
-institute: UC Berkeley
+institute: UC Berkeley & LBNL
 position: undergrad #senior, postdoc, gradstudent, undergrad, former
 title: Undergrad Researcher #Senior Scientist, Professor, ...
 website: # if you have a home page
