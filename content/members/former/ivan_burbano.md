@@ -4,7 +4,7 @@ first_name: Ivan
 last_name: Burbano
 portrait: images/portraits/ivan_burbano.jpg
 begin_year: 2023
-end_year: 2026
+end_date: 2026-06-30
 old_position: Graduate Student
 new_position: Postdoc
 institute: University of Maryland

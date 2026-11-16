@@ -4,7 +4,7 @@ first_name: Arin
 last_name: Manohar
 portrait: images/portraits/arin_manohar.jpeg
 begin_year: 2025
-end_year: 2026
+end_date: 2026-06-15
 old_position: UC Berkeley Undergrad
 new_position: Graduate Student
 institute: University of Chicago
